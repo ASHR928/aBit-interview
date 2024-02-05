@@ -1,0 +1,42 @@
+footer{
+    padding:3rem 5rem;
+ 
+    padding-bottom: 4rem;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-text{
+    font-family: "Inter","sans-serif";
+    
+}
+.footer-text h2{
+    margin-bottom: 1rem;
+    font-size: 40px;
+}
+.footer-text p{
+    font-size: 20px;
+    
+}
+.footer-p{
+    text-align: center;
+}
+
+.contact-container{
+    display: flex;
+    margin-right: 3rem;
+    flex-direction: column;
+    border-left: 2px solid #ccc;
+}
+.contact{
+   
+    margin-bottom: 0.8rem;
+    font-family: "Inter","sans-serif";
+    font-size: 14px;
+}
+.contact h3{
+    margin-left: 10px;
+}
